@@ -10,7 +10,10 @@ namespace CSExercises
     {
         public static void Main(string[] args)
         {
-            
+            double a = 5.1234;
+            double b = a * a;
+            Console.WriteLine(b);
+            Console.ReadLine();
         }
     }
 }

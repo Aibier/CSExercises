@@ -10,6 +10,10 @@ namespace CSExercises
     {
         public static void Main(string[] args)
         {
+            Console.WriteLine("input value x ");
+            int x = int.Parse(Console.ReadLine());
+            double y = (2 * Math.Pow(x, 2)) - (4 * (x)) + 3;
+            Console.ReadLine();
             
         }
     }

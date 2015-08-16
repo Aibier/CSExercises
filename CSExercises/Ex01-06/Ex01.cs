@@ -10,7 +10,7 @@ namespace CSExercises
     {
         public static void Main(string[] args)
         {
-            
+            Console.WriteLine("Good Morning AIZIZE ABUDUAINI");
         }
     }
 }

@@ -10,7 +10,11 @@ namespace CSExercises
     {
         public static void Main(string[] args)
         {
-            
-        }
+            Console.WriteLine("enter a decimal precision number:");
+            double a = double.Parse(Console.ReadLine());
+            double b = Math.Sqrt(a);
+           
+            Console.WriteLine("square root:{0:###.###}",b);
+        } 
     }
 }
