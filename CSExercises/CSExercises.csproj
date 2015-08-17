@@ -32,7 +32,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>CSExercises.Ex14</StartupObject>
+    <StartupObject>CSExercises.Ex23</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
